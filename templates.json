@@ -1,0 +1,12 @@
+{
+  "tpl": {
+    "vue-basic": {
+      "url": "https://github.com/lcmomo/myblogs_client.git",
+      "branch": "master"
+    },
+    "react-basic": {
+      "url": "https://github.com/lcmomo/myblogs_server.git",
+      "branch": "master"
+    }
+  }
+}
